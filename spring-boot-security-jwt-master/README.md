@@ -1,0 +1,1 @@
+Based on https://examples.javacodegeeks.com/spring-boot-security-and-jwt-hello-world-example/
